@@ -1,0 +1,38 @@
+{
+    "stage-common.plink_beds": [
+        {
+            "$dnanexus_link": {
+                "project": "project-J3jVPZ0Jf7xYbBP5BKKf6VfF",
+                "id": "file-FxXZzV0JkF65g2vX9Vx8jkkZ"
+            }
+        }
+    ],
+    "stage-common.plink_bims": [
+        {
+            "$dnanexus_link": {
+                "project": "project-J3jVPZ0Jf7xYbBP5BKKf6VfF",
+                "id": "file-FxXZxjQJkF636yj326QqXPV5"
+            }
+        }
+    ],
+    "stage-common.plink_fams": [
+        {
+            "$dnanexus_link": {
+                "project": "project-J3jVPZ0Jf7xYbBP5BKKf6VfF",
+                "id": "file-J3jjKq0J2j04x7p78GFqQQ0B"
+            }
+        }
+    ],
+    "stage-common.reference_fastagz": {
+        "$dnanexus_link": {
+            "project": "project-J3jVPZ0Jf7xYbBP5BKKf6VfF",
+            "id": "file-J4QKpXjJf7xqyPYkffZV6fPV"
+        }
+    },
+    "stage-common.ucsc_chain": {
+        "$dnanexus_link": {
+            "project": "project-J3jVPZ0Jf7xYbBP5BKKf6VfF",
+            "id": "file-J4QKpK8Jf7xQG98bkjB3gQBv"
+        }
+    }
+}
